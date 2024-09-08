@@ -15,7 +15,7 @@ return {
                 ['id'] = {
                     item = 'id_card',
                     label = 'ID',
-                    cost = 50,
+                    cost = 30,
                 },
                 ['driver'] = {
                     item = 'driver_license',
@@ -25,6 +25,11 @@ return {
                 ['weapon'] = {
                     item = 'weaponlicense',
                     label = 'Weapon License',
+                    cost = 50,
+                },
+                ['hunter'] = {
+                    item = 'huntinglicense',
+                    label = 'Hunting License',
                     cost = 50,
                 },
             },
