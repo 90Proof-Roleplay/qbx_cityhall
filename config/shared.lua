@@ -27,7 +27,7 @@ return {
                     label = 'Weapon License',
                     cost = 50,
                 },
-                ['hunter'] = {
+                ['hunting'] = {
                     item = 'huntinglicense',
                     label = 'Hunting License',
                     cost = 50,
